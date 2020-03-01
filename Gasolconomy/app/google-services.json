@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "340693289553",
+    "firebase_url": "https://gasoleconomy-7e1dd.firebaseio.com",
+    "project_id": "gasoleconomy-7e1dd",
+    "storage_bucket": "gasoleconomy-7e1dd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:340693289553:android:35e31b7781e58bf8584670",
+        "android_client_info": {
+          "package_name": "com.example.gasolconomy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "340693289553-5ntdm127r4c7vffoaqq46d2sjjp9vvlt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gasolconomy",
+            "certificate_hash": "4532f74358617a5033fac251358e4306d3d950ea"
+          }
+        },
+        {
+          "client_id": "340693289553-s24a2uak0t59ecstjfs6i4br8j1mgnns.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwqCXzgV7LvFDKmzvJHthYF_WKNaiuLoY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "340693289553-s24a2uak0t59ecstjfs6i4br8j1mgnns.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
