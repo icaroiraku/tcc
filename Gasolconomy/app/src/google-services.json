@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "21346546196",
+    "firebase_url": "https://gasoleconomy-12b5b.firebaseio.com",
+    "project_id": "gasoleconomy-12b5b",
+    "storage_bucket": "gasoleconomy-12b5b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:21346546196:android:8239992608614e7bc86d01",
+        "android_client_info": {
+          "package_name": "com.example.gasolconomy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "21346546196-m2o67sda8mel6r7o2plbqvc2sktrlou6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gasolconomy",
+            "certificate_hash": "6b796283373ecfcc33ef16dce9760aa9620abfb4"
+          }
+        },
+        {
+          "client_id": "21346546196-bavjqqi43amvcshv8fs5m2jp5s82vspf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwng6wrlPjeCSKKKDNzEBoAXtbjdUk2RA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "21346546196-bavjqqi43amvcshv8fs5m2jp5s82vspf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:21346546196:android:f9e468e5cd8e88edc86d01",
+        "android_client_info": {
+          "package_name": "com.example.gasoleconomy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "21346546196-jobil9ffqjv2qir2cu7bbb4rmn8nq9pp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gasoleconomy",
+            "certificate_hash": "4532f74358617a5033fac251358e4306d3d950ea"
+          }
+        },
+        {
+          "client_id": "21346546196-bavjqqi43amvcshv8fs5m2jp5s82vspf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwng6wrlPjeCSKKKDNzEBoAXtbjdUk2RA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "21346546196-bavjqqi43amvcshv8fs5m2jp5s82vspf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
